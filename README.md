@@ -1,1 +1,1 @@
-# Image_Detection
+# Residual Network (ResNet) via transfer learning, a popular deep learning neural network model is used to classify Pneumonia chest X-ray scans. The dataset consists of around 5,000 and 600 images in the training and testing set respectively.
